@@ -1,4 +1,4 @@
-# Video-Games-Sales-Prediction
+# Video-Games-Sales-Prediction :video_game:
 Analyze and predict the global sales of video games with machine learning
 
 ## Introduction
