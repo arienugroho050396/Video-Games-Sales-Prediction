@@ -5,7 +5,7 @@ Analyze and predict the global sales of video games with machine learning
 Since video games are played by many people of multiple ages, the publisher and video game developer makes video games their business and innovation to increase video game sales. In order to increase the video game sales, the machine learning models is needed to analyze and predict the global sales.
 
 ## Technical 
-- Language : R Programming (filetype: *.R*)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+- Language : R Programming (filetype: *.R*)  
 
 ## Content 
 Machine learning models is needed to analyze and predict the global sales. The machine learning models used in this project are Multiple Linear Regression, Random Forest Regression, SVM using RBF (Radial Basis Function) kernel.
