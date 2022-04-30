@@ -30,4 +30,4 @@ Machine learning models is needed to analyze and predict the global sales. The m
 | `User_Score` | Score given by the video games user |
 | `User_Count` | Number of critics given by the user |
 | `Developer` | Video games developer |
-| `Rating` | Rating of video games based on ESRB ratings. |  
+| `Rating` | Rating of video games based on ESRB ratings |  
