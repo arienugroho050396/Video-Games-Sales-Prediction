@@ -1,5 +1,5 @@
 # Video-Games-Sales-Prediction :video_game:
-Analyze and predict the global sales of video games with machine learning 
+Analyze and predict the global sales of video games with machine learning  
 
 ## Introduction
 Since video games are played by many people of multiple ages, the publisher and video game developer makes video games their business and innovation to increase video game sales. In order to increase the video game sales, the machine learning models is needed to analyze and predict the global sales.
