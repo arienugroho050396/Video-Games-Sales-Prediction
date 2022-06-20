@@ -1,3 +1,4 @@
+![This is an image](https://github.com/arienugroho050396/Video-Games-Sales-Prediction/blob/main/Header.png)
 # Video-Games-Sales-Prediction :video_game:
 Analyze and predict the global sales of video games with machine learning  
    
